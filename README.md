@@ -1,2 +1,1 @@
-# test-repo-44388
-test repository
+# This is a readme file for the repository created with terraform
